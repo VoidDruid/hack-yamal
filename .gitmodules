@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/VoidDruid/hackymal-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/daibogh/hack_yamal_frontend
