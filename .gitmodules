@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/VoidDruid/hackymal-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://gitlab.com/ritch_ann/web-logistics
